@@ -4,6 +4,7 @@ SmartFarmer - IoT Enabled Smart Farming Application
 Team leader:Monica U M
 
 Team Members:Jaya Sharimila,Anugrahaa,Vigneshwari
+
 <a href="https://github.com/IBM-EPBL/IBM-Project-18992-1659691969/tree/main/Project%20and%20Design%20Planning/Ideation%20phase">Ideation Phase</a>
 
 <a href="https://github.com/IBM-EPBL/IBM-Project-18992-1659691969/tree/main/Project%20and%20Design%20Planning/Project%20Design%20Phase1">Project Design Phase I</a>
